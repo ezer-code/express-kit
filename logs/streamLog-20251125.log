@@ -1,0 +1,4 @@
+::ffff:192.168.1.85 - - [2025/11/25 10:21:55] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+::ffff:192.168.1.85 - - [2025/11/25 10:21:55] "GET /css/style.css HTTP/1.1" 304 - "http://192.168.1.85:1234/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+::ffff:192.168.1.85 - - [2025/11/25 10:21:55] "GET /js/common.js HTTP/1.1" 304 - "http://192.168.1.85:1234/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+::ffff:192.168.1.85 - - [2025/11/25 10:21:55] "GET /images/ezer-logo.png HTTP/1.1" 304 - "http://192.168.1.85:1234/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"

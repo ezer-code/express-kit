@@ -1,0 +1,28 @@
+{
+    "name": "express-kit",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {
+        "start": "node ./app"
+    },
+    "bin": {
+        "app": "app.js"
+    },
+    "author": "ezer.jang",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "~1.4.7",
+        "cors": "~2.8.5",
+        "debug": "^4.4.3",
+        "dotenv": "^17.2.3",
+        "ejs": "~3.1.10",
+        "express": "~4.21.2",
+        "express-session": "^1.18.2",
+        "file-stream-rotator": "~1.0.0",
+        "fs-extra": "^11.3.2",
+        "http-errors": "~2.0.1",
+        "morgan": "~1.10.1",
+        "winston": "^3.18.3",
+        "winston-daily-rotate-file": "^5.0.0"
+    }
+}

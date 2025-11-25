@@ -1,0 +1,16 @@
+{
+    "keepSettings": {
+        "type": 2,
+        "amount": 10
+    },
+    "auditFilename": "audit.json",
+    "hashType": "md5",
+    "extension": "",
+    "files": [
+        {
+            "date": 1764031466460,
+            "name": "logs\\streamLog-20251125.log",
+            "hash": "4ead93e9ac01a377fe065706e90d2e1d"
+        }
+    ]
+}
